@@ -11,6 +11,7 @@
 3. Cosa 3
 
 ### Subtítulo 3
-'''
+
+<h3>Sección</h3>
 <p>Este es un párrafo</p>
-'''
+
